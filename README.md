@@ -21,6 +21,8 @@ Installed plugins:
 
 - DropHeads
   - Monster / Players sometimes will drop head when killed.
+  - Monster: 5%, Player: 25% (PVP only)
+  - Axe will multiply the chance by 2, Golden axe by 5
 
 - EssentialsX
   - EssentialsX is the essential plugin suite for Spigot servers, including over 130 commands and countless features for servers of any scale!
